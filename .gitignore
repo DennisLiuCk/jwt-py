@@ -1,0 +1,15 @@
+# Configuration files
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+/.idea/
